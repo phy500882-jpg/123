@@ -1,0 +1,6 @@
+{
+  "name": "천안시 시민 AI강사 양성과정",
+  "description": "천안에서, 천안 사람에게 AI를 가르칠 강사를 모십니다. 천안시 시민 AI강사 양성과정 모집 안내 및 온라인 신청 웹사이트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
